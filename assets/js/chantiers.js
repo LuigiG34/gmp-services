@@ -88,19 +88,19 @@ const CHANTIERS = [
       en: "Custom raised planting beds with decorative gravel and tropical-style landscaping. Final plantings planned for autumn to establish vegetation. Project completed with flexible scheduling for heat conditions."
     },
     medias: [
-      { type: "image", src: "/assets/media/600.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
-      { type: "image", src: "/assets/media/601.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
-      { type: "image", src: "/assets/media/602.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
-      { type: "image", src: "/assets/media/603.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
-      { type: "image", src: "/assets/media/604.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
-      { type: "image", src: "/assets/media/605.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
-      { type: "image", src: "/assets/media/606.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
-      { type: "image", src: "/assets/media/607.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
-      { type: "image", src: "/assets/media/608.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
-      { type: "image", src: "/assets/media/609.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
-      { type: "image", src: "/assets/media/610.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
-      { type: "image", src: "/assets/media/611.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
-      { type: "image", src: "/assets/media/612.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
+      { type: "image", src: "./assets/media/600.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
+      { type: "image", src: "./assets/media/601.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
+      { type: "image", src: "./assets/media/602.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
+      { type: "image", src: "./assets/media/603.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
+      { type: "image", src: "./assets/media/604.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
+      { type: "image", src: "./assets/media/605.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
+      { type: "image", src: "./assets/media/606.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
+      { type: "image", src: "./assets/media/607.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
+      { type: "image", src: "./assets/media/608.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
+      { type: "image", src: "./assets/media/609.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
+      { type: "image", src: "./assets/media/610.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
+      { type: "image", src: "./assets/media/611.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
+      { type: "image", src: "./assets/media/612.jpg", alt: { fr: "Création des bordures et graviers", en: "Planting bed borders and gravel being laid" } },
     ]
   },
   {
@@ -119,12 +119,12 @@ const CHANTIERS = [
       en: "Complete property refresh for sale. Deep cleaning, pathway clearing, lawn care and landscaping to enhance curb appeal and attract buyers. A pristine outdoor space makes all the difference."
     },
     medias: [
-      { type: "image", src: "/assets/media/500.jpg", alt: { fr: "Avant : jardin négligé avec herbes", en: "Before: neglected garden with overgrowth" } },
-      { type: "image", src: "/assets/media/501.jpg", alt: { fr: "Avant : jardin négligé avec herbes", en: "Before: neglected garden with overgrowth" } },
-      { type: "image", src: "/assets/media/502.jpg", alt: { fr: "Avant : jardin négligé avec herbes", en: "Before: neglected garden with overgrowth" } },
-      { type: "image", src: "/assets/media/503.jpg", alt: { fr: "Avant : jardin négligé avec herbes", en: "Before: neglected garden with overgrowth" } },
-      { type: "image", src: "/assets/media/504.jpg", alt: { fr: "Avant : jardin négligé avec herbes", en: "Before: neglected garden with overgrowth" } },
-      { type: "image", src: "/assets/media/505.jpg", alt: { fr: "Avant : jardin négligé avec herbes", en: "Before: neglected garden with overgrowth" } },
+      { type: "image", src: "./assets/media/500.jpg", alt: { fr: "Avant : jardin négligé avec herbes", en: "Before: neglected garden with overgrowth" } },
+      { type: "image", src: "./assets/media/501.jpg", alt: { fr: "Avant : jardin négligé avec herbes", en: "Before: neglected garden with overgrowth" } },
+      { type: "image", src: "./assets/media/502.jpg", alt: { fr: "Avant : jardin négligé avec herbes", en: "Before: neglected garden with overgrowth" } },
+      { type: "image", src: "./assets/media/503.jpg", alt: { fr: "Avant : jardin négligé avec herbes", en: "Before: neglected garden with overgrowth" } },
+      { type: "image", src: "./assets/media/504.jpg", alt: { fr: "Avant : jardin négligé avec herbes", en: "Before: neglected garden with overgrowth" } },
+      { type: "image", src: "./assets/media/505.jpg", alt: { fr: "Avant : jardin négligé avec herbes", en: "Before: neglected garden with overgrowth" } },
     ]
   },
   {
@@ -133,7 +133,7 @@ const CHANTIERS = [
       en: "Travertine pathway, gravel beds and lawn installation" 
     },
     lieu: "La Génétouze (85)",
-    cat: "creation",
+    cat: "maconnerie",
     tags: [ 
       { fr: "Allée travertin", en: "Travertine pathway" },
       { fr: "Aménagement complet", en: "Full landscaping" }
@@ -143,16 +143,16 @@ const CHANTIERS = [
       en: "Complete landscaping project: travertine pathway, structured gravel planting beds, soil preparation and lawn seeding. A fully transformed and enhanced outdoor space."
     },
     medias: [
-      { type: "image", src: "/assets/media/400.jpg", alt: { fr: "Avant : terrain brut à aménager", en: "Before: raw land to landscape" } },
-      { type: "image", src: "/assets/media/401.jpg", alt: { fr: "Avant : terrain brut à aménager", en: "Before: raw land to landscape" } },
-      { type: "image", src: "/assets/media/402.jpg", alt: { fr: "Avant : terrain brut à aménager", en: "Before: raw land to landscape" } },
-      { type: "image", src: "/assets/media/403.jpg", alt: { fr: "Avant : terrain brut à aménager", en: "Before: raw land to landscape" } },
-      { type: "image", src: "/assets/media/404.jpg", alt: { fr: "Avant : terrain brut à aménager", en: "Before: raw land to landscape" } },
-      { type: "image", src: "/assets/media/405.jpg", alt: { fr: "Avant : terrain brut à aménager", en: "Before: raw land to landscape" } },
-      { type: "image", src: "/assets/media/406.jpg", alt: { fr: "Avant : terrain brut à aménager", en: "Before: raw land to landscape" } },
-      { type: "image", src: "/assets/media/407.jpg", alt: { fr: "Avant : terrain brut à aménager", en: "Before: raw land to landscape" } },
-      { type: "image", src: "/assets/media/408.jpg", alt: { fr: "Avant : terrain brut à aménager", en: "Before: raw land to landscape" } },
-      { type: "image", src: "/assets/media/409.jpg", alt: { fr: "Avant : terrain brut à aménager", en: "Before: raw land to landscape" } },
+      { type: "image", src: "./assets/media/400.jpg", alt: { fr: "Avant : terrain brut à aménager", en: "Before: raw land to landscape" } },
+      { type: "image", src: "./assets/media/401.jpg", alt: { fr: "Avant : terrain brut à aménager", en: "Before: raw land to landscape" } },
+      { type: "image", src: "./assets/media/402.jpg", alt: { fr: "Avant : terrain brut à aménager", en: "Before: raw land to landscape" } },
+      { type: "image", src: "./assets/media/403.jpg", alt: { fr: "Avant : terrain brut à aménager", en: "Before: raw land to landscape" } },
+      { type: "image", src: "./assets/media/404.jpg", alt: { fr: "Avant : terrain brut à aménager", en: "Before: raw land to landscape" } },
+      { type: "image", src: "./assets/media/405.jpg", alt: { fr: "Avant : terrain brut à aménager", en: "Before: raw land to landscape" } },
+      { type: "image", src: "./assets/media/406.jpg", alt: { fr: "Avant : terrain brut à aménager", en: "Before: raw land to landscape" } },
+      { type: "image", src: "./assets/media/407.jpg", alt: { fr: "Avant : terrain brut à aménager", en: "Before: raw land to landscape" } },
+      { type: "image", src: "./assets/media/408.jpg", alt: { fr: "Avant : terrain brut à aménager", en: "Before: raw land to landscape" } },
+      { type: "image", src: "./assets/media/409.jpg", alt: { fr: "Avant : terrain brut à aménager", en: "Before: raw land to landscape" } },
     ]
   },
   {
@@ -173,10 +173,10 @@ const CHANTIERS = [
       en: "Complete clearing and cleanup of a severely neglected site overrun with weeds and wild vegetation. Deep-level restoration to reclaim the land and make it usable again."
     },
     medias: [
-      { type: "image", src: "/assets/media/300.jpg", alt: { fr: "Avant : terrain complètement envahi et négligé", en: "Before: completely overgrown abandoned land" } },
-      { type: "image", src: "/assets/media/301.jpg", alt: { fr: "Avant : terrain complètement envahi et négligé", en: "Before: completely overgrown abandoned land" } },
-      { type: "image", src: "/assets/media/302.jpg", alt: { fr: "Avant : terrain complètement envahi et négligé", en: "Before: completely overgrown abandoned land" } },
-      { type: "image", src: "/assets/media/303.jpg", alt: { fr: "Avant : terrain complètement envahi et négligé", en: "Before: completely overgrown abandoned land" } },
+      { type: "image", src: "./assets/media/300.jpg", alt: { fr: "Avant : terrain complètement envahi et négligé", en: "Before: completely overgrown abandoned land" } },
+      { type: "image", src: "./assets/media/301.jpg", alt: { fr: "Avant : terrain complètement envahi et négligé", en: "Before: completely overgrown abandoned land" } },
+      { type: "image", src: "./assets/media/302.jpg", alt: { fr: "Avant : terrain complètement envahi et négligé", en: "Before: completely overgrown abandoned land" } },
+      { type: "image", src: "./assets/media/303.jpg", alt: { fr: "Avant : terrain complètement envahi et négligé", en: "Before: completely overgrown abandoned land" } },
     ]
   },
   {
@@ -195,9 +195,9 @@ const CHANTIERS = [
       en: "Complete removal of banana plants and rhizome extraction — specialized work requiring precision and strength. Deep site clearing to prepare for new, better-suited plantings."
     },
     medias: [
-      { type: "image", src: "/assets/media/200.jpg", alt: { fr: "Avant : bananiers et végétation dense", en: "Before: banana plants and dense vegetation" } },
-      { type: "image", src: "/assets/media/201.jpg", alt: { fr: "Détail : arrachage des rhizomes massifs", en: "Detail: massive rhizome removal" } },
-      { type: "image", src: "/assets/media/202.jpg", alt: { fr: "Nettoyage : terrain débarrassé", en: "Clearing: site cleared" } }
+      { type: "image", src: "./assets/media/200.jpg", alt: { fr: "Avant : bananiers et végétation dense", en: "Before: banana plants and dense vegetation" } },
+      { type: "image", src: "./assets/media/201.jpg", alt: { fr: "Détail : arrachage des rhizomes massifs", en: "Detail: massive rhizome removal" } },
+      { type: "image", src: "./assets/media/202.jpg", alt: { fr: "Nettoyage : terrain débarrassé", en: "Clearing: site cleared" } }
     ]
   },
   {
@@ -216,10 +216,10 @@ const CHANTIERS = [
       en: "Complete site clearing and debris removal before upcoming construction. Vegetation management and grading to prepare the ground for new landscaping. Essential preparation work done professionally."
     },
     medias: [
-      { type: "image", src: "/assets/media/100.jpg", alt: { fr: "Avant : terrain envahi et inculte", en: "Before: overgrown untended site" } },
-      { type: "image", src: "/assets/media/101.jpg", alt: { fr: "Détail : fondations visibles après nettoyage", en: "Detail: site cleared revealing foundations" } },
-      { type: "image", src: "/assets/media/102.jpg", alt: { fr: "Après : terrain préparé et nettoyé", en: "After: cleared and prepared ground" } },
-      { type: "image", src: "/assets/media/103.jpg", alt: { fr: "Vue générale : prêt pour les travaux à venir", en: "Overview: ready for upcoming works" } }
+      { type: "image", src: "./assets/media/100.jpg", alt: { fr: "Avant : terrain envahi et inculte", en: "Before: overgrown untended site" } },
+      { type: "image", src: "./assets/media/101.jpg", alt: { fr: "Détail : fondations visibles après nettoyage", en: "Detail: site cleared revealing foundations" } },
+      { type: "image", src: "./assets/media/102.jpg", alt: { fr: "Après : terrain préparé et nettoyé", en: "After: cleared and prepared ground" } },
+      { type: "image", src: "./assets/media/103.jpg", alt: { fr: "Vue générale : prêt pour les travaux à venir", en: "Overview: ready for upcoming works" } }
     ]
   },
   {
@@ -238,12 +238,12 @@ const CHANTIERS = [
       en: "Follow-up visit to a November seeding project. Six months later, the lawn is fully established and lush, ready for summer. Proof of our expertise in late-season work and our commitment to client care."
     },
     medias: [
-      { type: "image", src: "/assets/media/90.jpg", alt: { fr: "Novembre : terrain semé en préparation", en: "November: freshly seeded terrain" } },
-      { type: "image", src: "/assets/media/91.jpg", alt: { fr: "Novembre : terrain semé en préparation", en: "November: freshly seeded terrain" } },
-      { type: "image", src: "/assets/media/92.jpg", alt: { fr: "Novembre : terrain semé en préparation", en: "November: freshly seeded terrain" } },
-      { type: "image", src: "/assets/media/93.jpg", alt: { fr: "Novembre : terrain semé en préparation", en: "November: freshly seeded terrain" } },
-      { type: "image", src: "/assets/media/94.jpg", alt: { fr: "Novembre : terrain semé en préparation", en: "November: freshly seeded terrain" } },
-      { type: "image", src: "/assets/media/95.jpg", alt: { fr: "Novembre : terrain semé en préparation", en: "November: freshly seeded terrain" } },
+      { type: "image", src: "./assets/media/90.jpg", alt: { fr: "Novembre : terrain semé en préparation", en: "November: freshly seeded terrain" } },
+      { type: "image", src: "./assets/media/91.jpg", alt: { fr: "Novembre : terrain semé en préparation", en: "November: freshly seeded terrain" } },
+      { type: "image", src: "./assets/media/92.jpg", alt: { fr: "Novembre : terrain semé en préparation", en: "November: freshly seeded terrain" } },
+      { type: "image", src: "./assets/media/93.jpg", alt: { fr: "Novembre : terrain semé en préparation", en: "November: freshly seeded terrain" } },
+      { type: "image", src: "./assets/media/94.jpg", alt: { fr: "Novembre : terrain semé en préparation", en: "November: freshly seeded terrain" } },
+      { type: "image", src: "./assets/media/95.jpg", alt: { fr: "Novembre : terrain semé en préparation", en: "November: freshly seeded terrain" } },
     ]
   },
   {
@@ -262,12 +262,12 @@ const CHANTIERS = [
       en: "Regular property upkeep: complete hedge trimming, lawn mowing and general cleanup. Routine maintenance that keeps your garden spotless year-round."
     },
     medias: [
-      { type: "image", src: "/assets/media/80.jpg", alt: { fr: "Avant : haies à tailler et pelouse à tondre", en: "Before: overgrown hedges and long grass" } },
-      { type: "image", src: "/assets/media/81.jpg", alt: { fr: "Avant : haies à tailler et pelouse à tondre", en: "Before: overgrown hedges and long grass" } },
-      { type: "image", src: "/assets/media/82.jpg", alt: { fr: "Avant : haies à tailler et pelouse à tondre", en: "Before: overgrown hedges and long grass" } },
-      { type: "image", src: "/assets/media/83.jpg", alt: { fr: "Avant : haies à tailler et pelouse à tondre", en: "Before: overgrown hedges and long grass" } },
-      { type: "image", src: "/assets/media/84.jpg", alt: { fr: "Avant : haies à tailler et pelouse à tondre", en: "Before: overgrown hedges and long grass" } },
-      { type: "image", src: "/assets/media/85.jpg", alt: { fr: "Avant : haies à tailler et pelouse à tondre", en: "Before: overgrown hedges and long grass" } },
+      { type: "image", src: "./assets/media/80.jpg", alt: { fr: "Avant : haies à tailler et pelouse à tondre", en: "Before: overgrown hedges and long grass" } },
+      { type: "image", src: "./assets/media/81.jpg", alt: { fr: "Avant : haies à tailler et pelouse à tondre", en: "Before: overgrown hedges and long grass" } },
+      { type: "image", src: "./assets/media/82.jpg", alt: { fr: "Avant : haies à tailler et pelouse à tondre", en: "Before: overgrown hedges and long grass" } },
+      { type: "image", src: "./assets/media/83.jpg", alt: { fr: "Avant : haies à tailler et pelouse à tondre", en: "Before: overgrown hedges and long grass" } },
+      { type: "image", src: "./assets/media/84.jpg", alt: { fr: "Avant : haies à tailler et pelouse à tondre", en: "Before: overgrown hedges and long grass" } },
+      { type: "image", src: "./assets/media/85.jpg", alt: { fr: "Avant : haies à tailler et pelouse à tondre", en: "Before: overgrown hedges and long grass" } },
     ]
   },
   {
@@ -276,7 +276,7 @@ const CHANTIERS = [
       en: "Late winter garden cleanup and landscaping" 
     },
     lieu: "La Ferrière (85)",
-    cat: "entretien",
+    cat: "maconnerie",
     tags: [ 
       { fr: "Nettoyage d'hiver", en: "Winter cleanup" },
       { fr: "Aménagement minéral", en: "Hard landscaping" }
@@ -286,14 +286,14 @@ const CHANTIERS = [
       en: "Comprehensive late-winter cleanup followed by garden design: stone paving, planting beds and structured green spaces. A refreshed garden ready for spring."
     },
     medias: [
-      { type: "image", src: "/assets/media/70.jpg", alt: { fr: "Avant : terrain à nettoyer avec accumulations hivernales", en: "Before: garden needing winter cleanup" } },
-      { type: "image", src: "/assets/media/71.jpg", alt: { fr: "Pendant : terrasse dallée en cours de création", en: "During: paved terrace being laid" } },
-      { type: "image", src: "/assets/media/72.jpg", alt: { fr: "Pendant : terrasse dallée en cours de création", en: "During: paved terrace being laid" } },
-      { type: "image", src: "/assets/media/73.jpg", alt: { fr: "Pendant : terrasse dallée en cours de création", en: "During: paved terrace being laid" } },
-      { type: "image", src: "/assets/media/74.jpg", alt: { fr: "Pendant : terrasse dallée en cours de création", en: "During: paved terrace being laid" } },
-      { type: "image", src: "/assets/media/75.jpg", alt: { fr: "Pendant : terrasse dallée en cours de création", en: "During: paved terrace being laid" } },
-      { type: "image", src: "/assets/media/76.jpg", alt: { fr: "Pendant : terrasse dallée en cours de création", en: "During: paved terrace being laid" } },
-      { type: "image", src: "/assets/media/77.jpg", alt: { fr: "Pendant : terrasse dallée en cours de création", en: "During: paved terrace being laid" } },
+      { type: "image", src: "./assets/media/70.jpg", alt: { fr: "Avant : terrain à nettoyer avec accumulations hivernales", en: "Before: garden needing winter cleanup" } },
+      { type: "image", src: "./assets/media/71.jpg", alt: { fr: "Pendant : terrasse dallée en cours de création", en: "During: paved terrace being laid" } },
+      { type: "image", src: "./assets/media/72.jpg", alt: { fr: "Pendant : terrasse dallée en cours de création", en: "During: paved terrace being laid" } },
+      { type: "image", src: "./assets/media/73.jpg", alt: { fr: "Pendant : terrasse dallée en cours de création", en: "During: paved terrace being laid" } },
+      { type: "image", src: "./assets/media/74.jpg", alt: { fr: "Pendant : terrasse dallée en cours de création", en: "During: paved terrace being laid" } },
+      { type: "image", src: "./assets/media/75.jpg", alt: { fr: "Pendant : terrasse dallée en cours de création", en: "During: paved terrace being laid" } },
+      { type: "image", src: "./assets/media/76.jpg", alt: { fr: "Pendant : terrasse dallée en cours de création", en: "During: paved terrace being laid" } },
+      { type: "image", src: "./assets/media/77.jpg", alt: { fr: "Pendant : terrasse dallée en cours de création", en: "During: paved terrace being laid" } },
     ]
   },
   {
@@ -312,8 +312,8 @@ const CHANTIERS = [
       en: "Complete restoration of a neglected garden: clearing, full cleanup, tree pruning and grading. Meticulous, methodical work to reclaim a beautiful outdoor space."
     },
     medias: [
-      { type: "image", src: "/assets/media/60.jpg", alt: { fr: "Avant : jardin envahi et négligé", en: "Before: overgrown neglected garden" } },
-      { type: "image", src: "/assets/media/61.jpg", alt: { fr: "Après : jardin impeccable et spacieux", en: "After: spotless, spacious garden" } }
+      { type: "image", src: "./assets/media/60.jpg", alt: { fr: "Avant : jardin envahi et négligé", en: "Before: overgrown neglected garden" } },
+      { type: "image", src: "./assets/media/61.jpg", alt: { fr: "Après : jardin impeccable et spacieux", en: "After: spotless, spacious garden" } }
     ]
   },
   {
@@ -332,8 +332,8 @@ const CHANTIERS = [
       en: "Complete garden overhaul: tree pruning, custom fence and gate installation, site levelling and grading, lawn seeding. A fully transformed outdoor space in one comprehensive project."
     },
     medias: [
-      { type: "image", src: "/assets/media/50.jpg", alt: { fr: "Avant : terrain à aplanir avec arbres à élaguer", en: "Before: uneven terrain with trees needing pruning" } },
-      { type: "image", src: "/assets/media/51.jpg", alt: { fr: "Après : clôture, portillon et gazon impeccables", en: "After: perfect fencing, custom gate and finished lawn" } }
+      { type: "image", src: "./assets/media/50.jpg", alt: { fr: "Avant : terrain à aplanir avec arbres à élaguer", en: "Before: uneven terrain with trees needing pruning" } },
+      { type: "image", src: "./assets/media/51.jpg", alt: { fr: "Après : clôture, portillon et gazon impeccables", en: "After: perfect fencing, custom gate and finished lawn" } }
     ]
   },
   {
@@ -352,8 +352,8 @@ const CHANTIERS = [
       en: "Grass seeding completed October 30th with excellent germination one month later. A successful lawn establishment, even late in the season, thanks to proper soil preparation and care."
     },
     medias: [
-      { type: "image", src: "/assets/media/40.jpg", alt: { fr: "Avant : terrain préparé en attente de semis", en: "Before: prepared soil ready for seeding" } },
-      { type: "image", src: "/assets/media/41.jpg", alt: { fr: "Après : belle levée du gazon semé", en: "After: healthy lawn germination" } }
+      { type: "image", src: "./assets/media/40.jpg", alt: { fr: "Avant : terrain préparé en attente de semis", en: "Before: prepared soil ready for seeding" } },
+      { type: "image", src: "./assets/media/41.jpg", alt: { fr: "Après : belle levée du gazon semé", en: "After: healthy lawn germination" } }
     ]
   },
   {
@@ -372,7 +372,7 @@ const CHANTIERS = [
       en: "Complete fencing and landscaping project: ranch-style fencing, travertine edging with ivory gravel, and full lawn seeding. A fully finished outdoor space."
     },
     medias: [
-      { type: "video", src: "/assets/media/30.mp4", poster: "" }
+      { type: "video", src: "./assets/media/30.mp4", poster: "" }
     ]
   },
   {
@@ -391,11 +391,11 @@ const CHANTIERS = [
       en: "Complete project combining soft fencing with mulch cloth, new hedge planting, and lawn renovation ahead of winter. A turnkey solution for easier maintenance going forward."
     },
     medias: [
-      { type: "image", src: "/assets/media/20.jpg", alt: { fr: "Vue d'ensemble du terrain avec plantations", en: "Overview of garden with new plantings" } },
-      { type: "image", src: "/assets/media/21.jpg", alt: { fr: "Vue d'ensemble du terrain avec plantations", en: "Overview of garden with new plantings" } },
-      { type: "image", src: "/assets/media/22.jpg", alt: { fr: "Vue d'ensemble du terrain avec plantations", en: "Overview of garden with new plantings" } },
-      { type: "image", src: "/assets/media/23.jpg", alt: { fr: "Vue d'ensemble du terrain avec plantations", en: "Overview of garden with new plantings" } },
-      { type: "image", src: "/assets/media/24.jpg", alt: { fr: "Vue d'ensemble du terrain avec plantations", en: "Overview of garden with new plantings" } },
+      { type: "image", src: "./assets/media/20.jpg", alt: { fr: "Vue d'ensemble du terrain avec plantations", en: "Overview of garden with new plantings" } },
+      { type: "image", src: "./assets/media/21.jpg", alt: { fr: "Vue d'ensemble du terrain avec plantations", en: "Overview of garden with new plantings" } },
+      { type: "image", src: "./assets/media/22.jpg", alt: { fr: "Vue d'ensemble du terrain avec plantations", en: "Overview of garden with new plantings" } },
+      { type: "image", src: "./assets/media/23.jpg", alt: { fr: "Vue d'ensemble du terrain avec plantations", en: "Overview of garden with new plantings" } },
+      { type: "image", src: "./assets/media/24.jpg", alt: { fr: "Vue d'ensemble du terrain avec plantations", en: "Overview of garden with new plantings" } },
     ]
   },
   {
@@ -414,7 +414,7 @@ const CHANTIERS = [
       en: "Driveway paved with multi-format travertine tiles. Elegant natural stone creating a durable, sophisticated path with varied patterns and textures."
     },
     medias: [
-      { type: "video", src: "/assets/media/10.mp4", poster: "" }
+      { type: "video", src: "./assets/media/10.mp4", poster: "" }
     ]
   },
   {
@@ -423,7 +423,7 @@ const CHANTIERS = [
       en: "Complete pool transformation: bioclimatic pergola and paving" 
     },
     lieu: "Vendée (85)",
-    cat: "creation",
+    cat: "maconnerie",
     tags: [ 
       { fr: "Pergola bioclimatique", en: "Bioclimatic pergola" },
       { fr: "Abords de piscine", en: "Pool surround" }
@@ -433,7 +433,7 @@ const CHANTIERS = [
       en: "Removal of old pergola, installation of a premium bioclimatic pergola and complete paving around the pool to create a sophisticated relaxation space."
     },
     medias: [
-      { type: "video", src: "/assets/media/09.mp4", poster: "" }
+      { type: "video", src: "./assets/media/09.mp4", poster: "" }
     ]
   },
   {
@@ -452,17 +452,17 @@ const CHANTIERS = [
       en: "A typical maintenance day across multiple clients: hedge trimming, lawn mowing, garden upkeep and landscaping. GMP Services maintains regular care for many properties."
     },
     medias: [
-      { type: "image", src: "/assets/media/08.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
-      { type: "image", src: "/assets/media/081.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
-      { type: "image", src: "/assets/media/082.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
-      { type: "image", src: "/assets/media/083.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
-      { type: "image", src: "/assets/media/084.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
-      { type: "image", src: "/assets/media/085.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
-      { type: "image", src: "/assets/media/086.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
-      { type: "image", src: "/assets/media/087.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
-      { type: "image", src: "/assets/media/088.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
-      { type: "image", src: "/assets/media/089.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
-      { type: "image", src: "/assets/media/0810.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
+      { type: "image", src: "./assets/media/08.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
+      { type: "image", src: "./assets/media/081.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
+      { type: "image", src: "./assets/media/082.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
+      { type: "image", src: "./assets/media/083.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
+      { type: "image", src: "./assets/media/084.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
+      { type: "image", src: "./assets/media/085.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
+      { type: "image", src: "./assets/media/086.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
+      { type: "image", src: "./assets/media/087.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
+      { type: "image", src: "./assets/media/088.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
+      { type: "image", src: "./assets/media/089.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
+      { type: "image", src: "./assets/media/0810.jpg", alt: { fr: "Taille de haies avec échelles", en: "Hedge trimming with ladders" } },
     ]
   },
   {
@@ -481,8 +481,8 @@ const CHANTIERS = [
       en: "Old chain-link fence replaced with modern privacy panels. A complete transformation for better privacy, aesthetics and long-term durability."
     },
     medias: [
-      { type: "image", src: "/assets/media/07.jpg", alt: { fr: "Avant : ancien grillage souple", en: "Before: old chain-link fence" } },
-      { type: "image", src: "/assets/media/071.jpg", alt: { fr: "Après : panneaux brises-vue installés", en: "After: new privacy panels installed" } }
+      { type: "image", src: "./assets/media/07.jpg", alt: { fr: "Avant : ancien grillage souple", en: "Before: old chain-link fence" } },
+      { type: "image", src: "./assets/media/071.jpg", alt: { fr: "Après : panneaux brises-vue installés", en: "After: new privacy panels installed" } }
     ]
   },
   {
@@ -501,7 +501,7 @@ const CHANTIERS = [
       en: "Custom-built compost bin made from recycled wood. An elegant, eco-friendly solution to manage garden waste and naturally enrich your soil."
     },
     medias: [
-      { type: "video", src: "/assets/media/06.mp4", poster: "" }
+      { type: "video", src: "./assets/media/06.mp4", poster: "" }
     ]
   },
   {
@@ -520,7 +520,7 @@ const CHANTIERS = [
       en: "Complete garden refresh for a property sale. Clearing, weeding, pruning and landscaping to enhance the property and attract buyers."
     },
     medias: [
-      { type: "video", src: "/assets/media/05.mp4", poster: "" }
+      { type: "video", src: "./assets/media/05.mp4", poster: "" }
     ]
   },
   {
@@ -539,12 +539,12 @@ const CHANTIERS = [
       en: "Professional crown thinning of a mature tree to improve structure, allow light penetration, and promote tree health. Safe, skilled work at height."
     },
     medias: [
-      { type: "image", src: "/assets/media/04.jpg", alt: { fr: "Élagage en cours — vue de l'arbre en travaux", en: "Pruning in progress — tree being worked on" } },
-      { type: "image", src: "/assets/media/041.jpg", alt: { fr: "Élagage en cours — vue de l'arbre en travaux", en: "Pruning in progress — tree being worked on" } },
-      { type: "image", src: "/assets/media/042.jpg", alt: { fr: "Élagage en cours — vue de l'arbre en travaux", en: "Pruning in progress — tree being worked on" } },
-      { type: "image", src: "/assets/media/043.jpg", alt: { fr: "Élagage en cours — vue de l'arbre en travaux", en: "Pruning in progress — tree being worked on" } },
-      { type: "image", src: "/assets/media/044.jpg", alt: { fr: "Élagage en cours — vue de l'arbre en travaux", en: "Pruning in progress — tree being worked on" } },
-      { type: "image", src: "/assets/media/045.jpg", alt: { fr: "Élagage en cours — vue de l'arbre en travaux", en: "Pruning in progress — tree being worked on" } }
+      { type: "image", src: "./assets/media/04.jpg", alt: { fr: "Élagage en cours — vue de l'arbre en travaux", en: "Pruning in progress — tree being worked on" } },
+      { type: "image", src: "./assets/media/041.jpg", alt: { fr: "Élagage en cours — vue de l'arbre en travaux", en: "Pruning in progress — tree being worked on" } },
+      { type: "image", src: "./assets/media/042.jpg", alt: { fr: "Élagage en cours — vue de l'arbre en travaux", en: "Pruning in progress — tree being worked on" } },
+      { type: "image", src: "./assets/media/043.jpg", alt: { fr: "Élagage en cours — vue de l'arbre en travaux", en: "Pruning in progress — tree being worked on" } },
+      { type: "image", src: "./assets/media/044.jpg", alt: { fr: "Élagage en cours — vue de l'arbre en travaux", en: "Pruning in progress — tree being worked on" } },
+      { type: "image", src: "./assets/media/045.jpg", alt: { fr: "Élagage en cours — vue de l'arbre en travaux", en: "Pruning in progress — tree being worked on" } }
     ]
   },
   {
@@ -563,12 +563,12 @@ const CHANTIERS = [
       en: "Installation of a premium bioclimatic pergola to create a shaded, comfortable outdoor living space. Perfect for extending your patio use year-round."
     },
     medias: [
-      { type: "image", src: "/assets/media/03.jpg", alt: { fr: "Avant : terrain sans aménagement", en: "Before: bare outdoor space" } },
-      { type: "image", src: "/assets/media/031.jpg", alt: { fr: "Installation en cours de la pergola", en: "Pergola installation in progress" } },
-      { type: "image", src: "/assets/media/032.jpg", alt: { fr: "Pergola bioclimatique terminée — vue globale", en: "Finished bioclimatic pergola — overview" } },
-      { type: "image", src: "/assets/media/034.jpg", alt: { fr: "Détail de la pergola et de l'aménagement", en: "Pergola detail and landscaping" } },
-      { type: "image", src: "/assets/media/035.jpg", alt: { fr: "Détail de la pergola et de l'aménagement", en: "Pergola detail and landscaping" } },
-      { type: "image", src: "/assets/media/036.jpg", alt: { fr: "Détail de la pergola et de l'aménagement", en: "Pergola detail and landscaping" } }
+      { type: "image", src: "./assets/media/03.jpg", alt: { fr: "Avant : terrain sans aménagement", en: "Before: bare outdoor space" } },
+      { type: "image", src: "./assets/media/031.jpg", alt: { fr: "Installation en cours de la pergola", en: "Pergola installation in progress" } },
+      { type: "image", src: "./assets/media/032.jpg", alt: { fr: "Pergola bioclimatique terminée — vue globale", en: "Finished bioclimatic pergola — overview" } },
+      { type: "image", src: "./assets/media/034.jpg", alt: { fr: "Détail de la pergola et de l'aménagement", en: "Pergola detail and landscaping" } },
+      { type: "image", src: "./assets/media/035.jpg", alt: { fr: "Détail de la pergola et de l'aménagement", en: "Pergola detail and landscaping" } },
+      { type: "image", src: "./assets/media/036.jpg", alt: { fr: "Détail de la pergola et de l'aménagement", en: "Pergola detail and landscaping" } }
     ]
   },
   {
@@ -587,8 +587,8 @@ const CHANTIERS = [
       en: "Complete transformation of an overgrown, neglected garden. Mowing, clearing, and landscaping to restore a usable, welcoming outdoor space."
     },
     medias: [
-      { type: "image", src: "/assets/media/02.jpg", alt: { fr: "Avant : terrain en friche envahi de mauvaises herbes", en: "Before: overgrown garden choked with weeds" } },
-      { type: "image", src: "/assets/media/021.jpg", alt: { fr: "Après : jardin nettoyé et tondu", en: "After: cleared and mowed garden" } }
+      { type: "image", src: "./assets/media/02.jpg", alt: { fr: "Avant : terrain en friche envahi de mauvaises herbes", en: "Before: overgrown garden choked with weeds" } },
+      { type: "image", src: "./assets/media/021.jpg", alt: { fr: "Après : jardin nettoyé et tondu", en: "After: cleared and mowed garden" } }
     ]
   },
   {
@@ -607,10 +607,10 @@ const CHANTIERS = [
       en: "Full creation of a Mediterranean garden with wooden raised planters, white gravel hard landscaping, and structured vegetation. A blend of zen and Mediterranean styles for a calm, elegant outdoor space."
     },
     medias: [
-      { type: "image", src: "/assets/media/01.jpg", alt: { fr: "Vue d'ensemble du jardin aménagé", en: "Overview of the designed garden" } },
-      { type: "image", src: "/assets/media/012.jpg", alt: { fr: "Détail massif avec arbustes et orangers", en: "Planter detail with shrubs and citrus trees" } },
-      { type: "image", src: "/assets/media/013.jpg", alt: { fr: "Jardin paysager avec piscine en arrière-plan", en: "Landscaped garden with pool in background" } },
-      { type: "image", src: "/assets/media/014.jpg", alt: { fr: "Élément décoratif du jardin", en: "Garden decorative element" } }
+      { type: "image", src: "./assets/media/01.jpg", alt: { fr: "Vue d'ensemble du jardin aménagé", en: "Overview of the designed garden" } },
+      { type: "image", src: "./assets/media/012.jpg", alt: { fr: "Détail massif avec arbustes et orangers", en: "Planter detail with shrubs and citrus trees" } },
+      { type: "image", src: "./assets/media/013.jpg", alt: { fr: "Jardin paysager avec piscine en arrière-plan", en: "Landscaped garden with pool in background" } },
+      { type: "image", src: "./assets/media/014.jpg", alt: { fr: "Élément décoratif du jardin", en: "Garden decorative element" } }
     ]
   }
 ];
