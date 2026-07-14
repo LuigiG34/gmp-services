@@ -711,3 +711,12 @@ footer .wrap {
     transform: none
   }
 }
+
+@media  screen and (max-width: 560px) {
+  .brand, .contact-card a {
+    font-size: 1rem!important;
+  }
+  .btn{
+    padding: 12px!important;
+  }
+}
