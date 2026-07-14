@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Nos chantiers — GMP Services, paysagiste</title>
+<meta name="description" content="Découvrez les réalisations de GMP Services : allées, murs de soutènement, engazonnement, clôtures et entretien de jardins entre Châteaubriant et Redon.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,400;12..96,600;12..96,800&family=Public+Sans:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/assets/css/chantiers.css">
+<link rel="icon" href="/assets/media/logo.svg" type="image/svg+xml">
+</head>
+<body>
+
+<header>
+  <div class="wrap nav">
+    <a class="brand" href="/">
+      <img src="/assets/media/logo.svg" alt="GMP Services" width="30" height="30">
+      GMP Services
+    </a>
+    
+    <div class="nav-actions">
+      <select class="lang" id="lang-select" aria-label="Langue / Language">
+        <option value="fr" selected>FR</option>
+        <option value="en">EN</option>
+      </select>
+      <a class="btn" href="/chantiers.html" data-i18n="nav.chantiers">Nos chantiers</a>
+    </div>
+  </div>
+</header>
+
+<main>
+  <div class="page-head">
+    <div class="wrap">
+      <span class="eyebrow" data-i18n="head.eyebrow">Nos chantiers</span>
+      <h1 data-i18n="head.title">Nos réalisations parlent pour nous.</h1>
+      <p data-i18n="head.lede">Allées, murs, pelouses, clôtures : un aperçu de chantiers menés entre Châteaubriant et Redon, chez des particuliers comme des professionnels.</p>
+      <div class="filters" id="filters" role="group" aria-label="Filtrer les chantiers">
+        <button class="active" data-filter="all" data-i18n="filter.all">Tous</button>
+        <button data-filter="creation" data-i18n="filter.creation">Création paysagère</button>
+        <button data-filter="maconnerie" data-i18n="filter.maconnerie">Maçonnerie paysagère</button>
+        <button data-filter="entretien" data-i18n="filter.entretien">Entretien</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <div class="chantiers" id="chantiers"><!-- généré par le script --></div>
+  </div>
+
+  <div class="cta-band">
+    <h2 data-i18n="cta.title">Un projet similaire en tête ?</h2>
+    <p data-i18n="cta.lede">Visite sur place et devis gratuit, 6 jours sur 7.</p>
+    <!-- TODO : remplacer par le vrai numéro -->
+    <a class="btn leaf" href="tel:+33764430107" data-i18n="cta.btn">Appeler GMP Services</a>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span data-i18n="footer.left">© 2026 GMP Services — Paysagiste</span>
+    <span data-i18n="footer.right">Vendée</span>
+  </div>
+</footer>
+
+
+<script src="/assets/js/chantiers.js"></script>
+
+</body>
+</html>
