@@ -717,7 +717,7 @@ footer .wrap {
     font-size: 1rem!important;
   }
   .brand span {
-    display: none;
+    display: none!important;
   }
   .btn{
     padding: 12px!important;
