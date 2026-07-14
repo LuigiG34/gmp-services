@@ -716,6 +716,9 @@ footer .wrap {
   .brand, .contact-card a {
     font-size: 1rem!important;
   }
+  .brand span {
+    display: none;
+  }
   .btn{
     padding: 12px!important;
   }
